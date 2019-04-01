@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/aschuch/AwesomeCache.svg)](https://travis-ci.org/aschuch/AwesomeCache)
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/AwesomeCache.svg)](https://img.shields.io/cocoapods/v/AwesomeCache.svg)
 ![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)
-![Swift 3.0](https://img.shields.io/badge/Swift-3.0-orange.svg)
+![Swift 5.0](https://img.shields.io/badge/Swift-5.0-orange.svg)
 ![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20watchOS%20%7C%20tvOS-lightgrey.svg)
 
 Delightful on-disk cache (written in Swift).
