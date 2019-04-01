@@ -353,6 +353,7 @@
 				TargetAttributes = {
 					4D44D2861971627700EC5FDB = {
 						CreatedOnToolsVersion = 6.0;
+						DevelopmentTeam = V6KWUV4A4U;
 						LastSwiftMigration = 0800;
 					};
 					4D81D4811C416F3C009A66A7 = {
@@ -367,6 +368,7 @@
 					};
 					4DC91FA11A7C54B200C81E10 = {
 						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = V6KWUV4A4U;
 						LastSwiftMigration = 0800;
 						TestTargetID = 4D44D2861971627700EC5FDB;
 					};
@@ -634,6 +636,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = V6KWUV4A4U;
 				INFOPLIST_FILE = Example/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -647,6 +650,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = V6KWUV4A4U;
 				INFOPLIST_FILE = Example/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -824,6 +828,7 @@
 		4DC91FB31A7C54B200C81E10 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = V6KWUV4A4U;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -843,6 +848,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COPY_PHASE_STRIP = NO;
+				DEVELOPMENT_TEAM = V6KWUV4A4U;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = AwesomeCacheTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
